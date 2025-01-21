@@ -1,6 +1,6 @@
 # crudpythondjango
 # 
-# python demo, frameork django
+# python demo, framework django
 # command:
 # pip install mysql
 # python manage.py makemigrations
